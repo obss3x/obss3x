@@ -1,16 +1,22 @@
-## Hi there 👋
+# Привет 👋
 
-<!--
-**obss3x/obss3x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Меня зовут Антон, я начинающий разработчик на C.
 
-Here are some ideas to get you started:
+## 🧠 О себе
+- 2.5+ года изучаю программирование
+- Выпускник School 21 (Сбер)
+- Уверенно работаю в Linux-среде
+- Интересуюсь системным и backend-развитием
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Технологии
+- C
+- GCC / Makefile / CMake
+- Valgrind
+- Git
+- Linux (Bash)
+
+## 📂 Проекты
+- Pong (C)
+- Game of Life (C)
+
+Сейчас активно ищу стажировку / junior-позицию.
